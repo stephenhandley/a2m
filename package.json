@@ -1,0 +1,22 @@
+{
+  "name": "a2m",
+  "version": "1.0.0",
+  "description": "Convert array to map for given key",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stephenhandley/a2m.git"
+  },
+  "bugs": {
+    "url": "http://github.com/stephenhandley/a2m/issues"
+  },
+  "author": {
+    "name": "Stephen Handley",
+    "email": "stephen.handley@gmail.com",
+    "url": "http://person.sh"
+  },
+  "license": "substanceware"
+}
